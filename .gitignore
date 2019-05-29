@@ -1,0 +1,7 @@
+# -*-conf-*- See http://wiki/gitignore
+# Monika
+
+# Temp File
+.idea
+build
+*.pyc
